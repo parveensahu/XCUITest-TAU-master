@@ -1,0 +1,16 @@
+PODS:
+  - EyesXCUI (8.8.6)
+
+DEPENDENCIES:
+  - EyesXCUI
+
+SPEC REPOS:
+  trunk:
+    - EyesXCUI
+
+SPEC CHECKSUMS:
+  EyesXCUI: e6cebdf0e988e4fe023090ac14939a53ddf0cfbd
+
+PODFILE CHECKSUM: f3dbacf252ba2d0421b76fc8d61cf75352dc1415
+
+COCOAPODS: 1.10.1

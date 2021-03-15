@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='TAUUITests.xctest' tests='4' failures='0'>
+  <testsuite name='TAUUITests.BDDTest' tests='4' failures='0'>
+    <testcase classname='TAUUITests.BDDTest' name='testPositiveScenario' time='5.885'/>
+    <testcase classname='TAUUITests.BDDTest' name='testThankYouMessageInBDStyle' time='3.765'/>
+    <testcase classname='TAUUITests.BDDTest' name='testValidationErrorMessage' time='3.001'/>
+    <testcase classname='TAUUITests.BDDTest' name='testWelcomeMessage' time='3.948'/>
+  </testsuite>
+</testsuites>
