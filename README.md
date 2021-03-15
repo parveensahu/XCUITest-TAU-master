@@ -2,7 +2,7 @@
 
 This repo contains the course material for the Test Automation University Course `Introduction to iOS Automation with XCUITest` 
 
-# Pre-requisite 
+# Pre-Requisite 
 
 In order to follow this course, you will need 
  * macOS High Sierra or Mojave 
