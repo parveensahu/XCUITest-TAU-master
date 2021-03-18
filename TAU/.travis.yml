@@ -1,11 +1,10 @@
 language: swift
 osx_image: xcode11.4
 branches:
-  only: 
-    - parveensahu-patch-1
-
+  only:
+    - main
 before_install:
-  - gem install fastlane --no-ri --no-rdoc --no-document
+  - gem install fastlane
 install: true
-script: 
+script:
   - fastlane scan --scheme TAU --device "iPhone 11 Pro Max"

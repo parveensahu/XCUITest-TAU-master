@@ -3,7 +3,7 @@
 //  TAUUITests
 //
 //  Created by Parveen Sahu on 03/03/21.
-//  Copyright © 2021 Shashikant Jagtap. All rights reserved.
+//  
 //
 
 import Foundation
